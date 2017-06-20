@@ -1,0 +1,33 @@
+{
+  "name": "exceldb",
+  "version": "1.0.0",
+  "description": "An experimentation of implementing a relational database by using google sheet API",
+  "main": "db.js",
+  "dependencies": {
+    "google-auth-library": "^0.10.0",
+    "googleapis": "^19.0.0",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/billma/excelDB.git"
+  },
+  "keywords": [
+    "excel",
+    "database",
+    "experiementation",
+    "google",
+    "api",
+    "sheets"
+  ],
+  "author": "billma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/billma/excelDB/issues"
+  },
+  "homepage": "https://github.com/billma/excelDB#readme"
+}

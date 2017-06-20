@@ -17,6 +17,8 @@ An experimentation of implementing a relational database by using google sheet A
   }
 }
 ```
+#### Installation
+`npm install`
 
 #### Usage
 
